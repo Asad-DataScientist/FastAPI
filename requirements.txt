@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pylance
+pydantic
+uuid
+enum
+
+
+#  python -m venv .venv
+#  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# .\.venv\Scripts\activate # IF NAME OF THE VENV IS .VENV
