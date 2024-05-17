@@ -1,0 +1,41 @@
+FOR POST METHOD THROUGH THUNDER CLIENT
+{
+  "first_name": "Rita",
+  "last_name": "Oliver",
+  "gender": "Female",
+  "roles": [
+    "Student"
+  ]
+}
+
+# ----------------------------------------REPONSE------------------------
+
+[
+  {
+    "id": "e1652b25-b727-4168-ab7e-5fd0814fae53",
+    "first_name": "Jamila",
+    "last_name": "Ahmed",
+    "gender": "Female",
+    "roles": [
+      "Student"
+    ]
+  },
+  {
+    "id": "8d7bda08-9142-428d-8dea-dc46458b788a",
+    "first_name": "Alex",
+    "last_name": "jones",
+    "gender": "Male",
+    "roles": [
+      "User"
+    ]
+  },
+  {
+    "id": "ff18f7c2-c130-4729-8553-003778c91226",
+    "first_name": "Rita",
+    "last_name": "Oliver",
+    "gender": "Female",
+    "roles": [
+      "Student"
+    ]
+  }
+]
